@@ -9,6 +9,8 @@ Various documents and manuals for AvalonMiner 721.
 
 - [x] Add documents here
 - [x] fill out wiki with specs https://github.com/Canaan-Creative/avalon7-docs/wiki
+- [x] Add AvalonMiner 721 Welcome Card and for print
+- [x] Add AvalonMiner 721 Packaging Instructions
 
 
 ## LICENSE
