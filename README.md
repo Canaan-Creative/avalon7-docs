@@ -1,4 +1,4 @@
-# avalon7-docs
+# Avalonminer 721 Documentation (avalon7-docs)
 Various documents and manuals for AvalonMiner 721.
 
 ## Specifications
@@ -11,7 +11,7 @@ Various documents and manuals for AvalonMiner 721.
 - [x] fill out wiki with specs https://github.com/Canaan-Creative/avalon7-docs/wiki
 - [x] Add AvalonMiner 721 Welcome Card and for print
 - [x] Add AvalonMiner 721 Packaging Instructions
-
+- [x] Add AvalonMiner 721 Welcome Card with Updated 8-on-front 
 
 ## LICENSE
 
