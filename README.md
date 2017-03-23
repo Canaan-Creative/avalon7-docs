@@ -1,4 +1,5 @@
-# Avalonminer 721 Documentation (avalon7-docs)
+# Avalonminer 7 Series Developer Documentation (avalon7-docs)
+
 Various documents and manuals for AvalonMiner 721.
 
 ## Specifications
@@ -12,7 +13,9 @@ Various documents and manuals for AvalonMiner 721.
 - [x] Add AvalonMiner 721 Welcome Card and for print
 - [x] Add AvalonMiner 721 Packaging Instructions
 - [x] Add AvalonMiner 721 Welcome Card with Updated 8-on-front 
+- [ ] Add your ideas here.
+
 
 ## LICENSE
 
-Read the readme, we are licensing these manuals and documents using Creative Commons Zero 1.0 license except for the the Canaan, AvalonMiner, and Avalonminer 721 logos and trademarked images which are All Rights Reserved.
+Read the readme, we are licensing these manuals and documents using Creative Commons Zero 1.0 license except for the the Canaan, AvalonMiner, and Avalonminer 721, and 741 logos and trademarked images which are All Rights Reserved.
